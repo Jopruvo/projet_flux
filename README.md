@@ -5,7 +5,7 @@ Le principe est d'effectuer un compteur de mots à la map-reduce, le tout sans u
 
 ---
 ## Getting Started
-Projet trouvable sur GitHub au lien suivant :
+Projet trouvable sur GitHub au lien suivant : https://github.com/Jopruvo/projet_flux
 
 ---
 ## Usage
